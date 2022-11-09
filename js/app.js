@@ -1,1 +1,0 @@
-console.log("min ga lar par");
